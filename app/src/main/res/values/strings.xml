@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Welcome</string>
     <string name="welcome">Tworzymy aplikacje systemu Android</string>
+    <string name="logo">Logo przedstawiające owada</string>
 </resources>
